@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick</string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">hint</string>
+</resources>
